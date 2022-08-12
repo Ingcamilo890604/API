@@ -1,0 +1,12 @@
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

@@ -1,0 +1,17 @@
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\bin\Debug\net6.0\Common.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\bin\Debug\net6.0\Infrastructure.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\bin\Debug\net6.0\Common.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\bin\Debug\net6.0\Infrastructure.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,12 @@
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\bin\Debug\net6.0\Common.deps.json
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\bin\Debug\net6.0\Common.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\bin\Debug\net6.0\Common.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\Common.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\refint\Common.dll
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\Common.pdb
+C:\PruebasTecnicas\NetCore\EmployeesApi\Common\obj\Debug\net6.0\ref\Common.dll
